@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este projeto tem como objetivo realizar uma Análise Exploratória de Dados (EDA) em um conjunto de dados do IMDB. A análise explora diversas variáveis relacionadas a filmes, incluindo notas, gêneros e ano de lançamento, utilizando bibliotecas do ecossistema Python para manipulação e visualização de dados.
+Este projeto tem como objetivo realizar uma Análise Exploratória de Dados (EDA) em um conjunto de dados do IMDb. A análise explora diversas variáveis relacionadas a filmes, incluindo notas, gêneros e ano de lançamento, utilizando bibliotecas do ecossistema Python para manipulação e visualização de dados.
 
 ## Tecnologias Utilizadas
 - Python
@@ -68,7 +68,7 @@ Tanto os melhores filmes e piores filmes, são na sua maioria, do gênero drama 
 
 
 ## Conclusão
-Conclui-se a partir dos anos 2000, houve um aumento significativo na produção cinematográfica e que o gênero mais produzido é drama e comédia. Entretanto, no quesito aceitação do público, o gênero documentário é o mais bem avaliado. Sendo que avaliação não está diretamente relacionada com a duração do filme. Outro ponto a destacar, é a representatividade da produção dos Estados Unidos, sendo esta mais de duas vezes a quantidade produzido pelo segundo país do ranking.
+Conclui-se que a partir dos anos 2000, houve um aumento significativo na produção cinematográfica e que o gênero mais produzido é drama e comédia. Entretanto, no quesito aceitação do público, o gênero documentário é o mais bem avaliado. Sendo que avaliação não está diretamente relacionada com a duração do filme. Outro ponto a destacar, é a representatividade da produção dos Estados Unidos, sendo esta mais de duas vezes a quantidade produzido pelo segundo país do ranking.
 
 -------------------
 
