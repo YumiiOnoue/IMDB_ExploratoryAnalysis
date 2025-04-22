@@ -68,7 +68,7 @@ Tanto os melhores filmes e piores filmes, são na sua maioria, do gênero drama 
 
 
 ## Conclusão
-Conclui-se que a partir dos anos 2000, houve um aumento significativo na produção cinematográfica e que o gênero mais produzido é drama e comédia. Entretanto, no quesito aceitação do público, o gênero documentário é o mais bem avaliado. Sendo que avaliação não está diretamente relacionada com a duração do filme. Outro ponto a destacar, é a representatividade da produção dos Estados Unidos, sendo esta mais de duas vezes a quantidade produzido pelo segundo país do ranking.
+Conclui-se que a partir dos anos 2000, houve um aumento significativo na produção cinematográfica e que os gêneros mais produzidos são drama e comédia. Entretanto, no quesito aceitação do público, o gênero documentário é o mais bem avaliado. Sendo que avaliação não está diretamente relacionada com a duração do filme. Outro ponto a destacar, é a representatividade da produção dos Estados Unidos, sendo esta mais de duas vezes a quantidade produzido pelo segundo país do ranking.
 
 -------------------
 
